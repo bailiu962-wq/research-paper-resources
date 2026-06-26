@@ -9,6 +9,15 @@ Core Jupyter kernel references:
 - Jupyter Client documentation - Messaging protocol: https://jupyter-client.readthedocs.io/en/latest/messaging.html
 - Community kernel list: https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
 
+Jupyter Kernel Gateway:
+- GitHub: https://github.com/jupyter-server/kernel_gateway
+- PyPI: https://pypi.org/project/jupyter-kernel-gateway/
+- Documentation: https://jupyter-kernel-gateway.readthedocs.io/en/latest/
+
+ipykernel:
+- GitHub: https://github.com/ipython/ipykernel
+- PyPI: https://pypi.org/project/ipykernel/
+
 VS Code Jupyter kernel references:
 - VS Code Jupyter kernel management: https://code.visualstudio.com/docs/datascience/jupyter-kernel-management
 - Microsoft VS Code Jupyter extension: https://github.com/microsoft/vscode-jupyter
