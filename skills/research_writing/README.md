@@ -11,6 +11,7 @@ Primary curated links:
 - Overleaf templates: https://www.overleaf.com/latex/templates
 - Pandoc (Markdown <-> LaTeX conversions): https://pandoc.org/
 - Humanizer links: HUMANIZER_LINKS.md
+- Jupyter live kernel links: JUPYTER_LIVE_KERNEL_LINKS.md
 
 Note: This repository contains local copies of README files fetched from upstream when available.
 If a README couldn't be downloaded automatically, please refer to the links above.
