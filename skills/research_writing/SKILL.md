@@ -14,6 +14,7 @@ Use this skill when the user asks for help drafting, polishing, structuring, or 
 - Start with `README.md` for the curated overview.
 - Use `OVERLEAF_LINKS.md` for common journal and conference template references.
 - Use `HUMANIZER_LINKS.md` when the user asks about Humanizer or humanizing wording.
+- Use `JUPYTER_LIVE_KERNEL_LINKS.md` when the user asks about Jupyter kernels, live kernels, VS Code notebook kernels, or live migration/checkpointing for notebook sessions.
 - Use `README_source_*.md` as offline upstream references when relevant.
 
 ## Guidance
